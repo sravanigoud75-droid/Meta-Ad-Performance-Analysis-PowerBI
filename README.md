@@ -8,8 +8,8 @@ The dashboard focuses on engagement behavior, audience demographics, geographic 
 ---
 
 ## 📸 Dashboard Preview
-![Facebook Dashboard Overview](images/Facebook Meta ads Performance Dashboard.png)
-![Instagram Dashboard Overview](images/Instagram Meta Ads performance Dashboard.png)
+![Facebook Dashboard Overview](images/Facebook_Meta_ads_Performance_Dashboard.png)
+![Instagram Dashboard Overview](images/Instagram_Meta_Ads_performance_Dashboard.png)
 
 ---
 
@@ -23,6 +23,14 @@ The dashboard focuses on engagement behavior, audience demographics, geographic 
 - Conversion Rate: 5.21%
 - Purchase Rate: 0.61%
 - Total Ad Budget: 2.5M
+
+---
+
+## 🛠 How I Built This
+- Cleaned and transformed data using Power Query
+- Created data model with proper relations
+- Wrote DAX measures for key metrics (CTR, Conversion Rate)
+- Designed visuals with filter interactions for insights
 
 ---
 
@@ -51,6 +59,14 @@ The dashboard focuses on engagement behavior, audience demographics, geographic 
 - Marketing Funnel Analysis
 - Data Visualization
 
+---
+
+## 🧠 Summary
+- 📈 High engagement but low bottom-of-funnel conversions
+- 🎯 Target audience: females 18–30 in India & US
+- 🧪 Best ad formats: Video & Stories
+- 🛠 Tools: Power BI, DAX, Data Modeling
+ 
 ---
 
 ## 📂 Files Included
